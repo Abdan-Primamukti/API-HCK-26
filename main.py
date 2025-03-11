@@ -55,3 +55,13 @@ def deleteData(filter: str,api_key=Header(None)):
         raise HTTPException(400,"password salah")
 #else:
         #print("password salah")
+
+
+
+ 
+        # #git init 
+        # git remote add origin https://github.com/Abdan-Primamukti/API-HCK-26.git
+        # git branch -M main
+        # git add .
+        # git commit -m "API"   
+        # git push -u origin main  
